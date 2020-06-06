@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello
+category: About
 ---
 
 Welcome to my personal webiste.
