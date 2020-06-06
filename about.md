@@ -9,9 +9,12 @@ A passionate individual with experience in Digital Transformation, UX, Data Scie
 ### More Information
 
 ## Follow me on Social Media
-[Linked in](www.linkedin.com/in/mooredvd) 
+[Linked in](https://www.linkedin.com/in/mooredvd) 
+
 [Twitter](https://twitter.com/CognitiveDave)
+
 [YouTube Channel](https://www.youtube.com/channel/UCjKfduR7k-TQI0MJl209k2A)
+
 [Medium](https://medium.com/@mlexperiencedavid)
 
 ### Contact me
