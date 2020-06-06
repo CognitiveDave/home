@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A passionate individual with experience in Digital Transformation, UX, Data Science, Tax Technology, Software Engineering, Mentor, Coach, Agile, LeanUX, Design Thinking — views are my.  Employed by IBM
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+## Follow me on Social Media
+[Linked in](www.linkedin.com/in/mooredvd) 
+[Twitter](https://twitter.com/CognitiveDave)
+[YouTube Channel](https://www.youtube.com/channel/UCjKfduR7k-TQI0MJl209k2A)
+[Medium](https://medium.com/@mlexperiencedavid)
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[mlexperiencedavid@gmail.com](mailto:mlexperiencedavid@gmail.com)
