@@ -5,5 +5,5 @@ title: Hello
 
 Welcome to my personal webiste.
 
-![Favorite Picture](https://raw.githubusercontent.com/CognitiveDave/CognitiveDave.github.io/master/images/fav.jpg)
+![Favorite Picture](https://github.com/CognitiveDave/CognitiveDave.github.io/blob/master/images/fav)
 
