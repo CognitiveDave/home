@@ -6,6 +6,6 @@ category: About
 
 Welcome to my personal webiste.
 
-![Favorite Picture](https://raw.githubusercontent.com/CognitiveDave/CognitiveDave.github.io/master/images/fav)
+![Favorite Picture](/images/fav)
 
 This picture was taken very close to where I live.
