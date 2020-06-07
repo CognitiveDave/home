@@ -78,6 +78,6 @@ So far we decided that a **Raspberry Pi 4B would cost at least 100 Pounds** ster
 6. A speaker or speakers - though the screen will offer a HDMI facilitated sound output. You get what you pay for.
 
 ### How much did my Raspberry Pi 4B cost me
-You should bear in mind that I build computer systems so I have a lot of peripherals thrown around.  The model that I am using today would cost around $700.00 USD if I had to buy off the shelve today.
+You should bear in mind that I build computer systems so I have a lot of peripherals thrown around.  The model that I am using today would cost around $700.00 USD if I had to buy off the shelve today.  The inventory and costs for my build are stored [here](https://github.com/CognitiveDave/CognitiveDave.github.io/blob/master/images/pies.Pdf). My interest is to build performant systems ensuring the best possible User Experience and absolute stability for the user. Standard off the shelf computers, you buy in the store, are just a trade off between your basic needs and your appetite for spending.  Apple computers are more expensive but I find they really do last X10 times longer than traditional WIN-TEL computers.  You get what you pay for.
 
 ![Picture of the total bill for a Raspberry Pi 4](/images/pi_bill.png)
