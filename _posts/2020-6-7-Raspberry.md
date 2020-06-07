@@ -4,7 +4,6 @@ title: How much does a Raspberry Pi 4 actually cost
 category: RaspberryPi
 ---
 
-## How much does a Raspberry Pi 4B Computer actually cost?
 Recently I read quiet a few articles suggesting a **Raspberry Pi computer** is like $35 USD.  I thought really how could that be? 
 So naturally I made a Spreadsheet using Office365 Online directly from my Raspberry Pi 4.  Here is what I found!
 
