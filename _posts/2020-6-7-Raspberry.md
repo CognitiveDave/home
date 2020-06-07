@@ -4,7 +4,7 @@ title: How much does a Raspberry Pi 4 actually cost
 category: RaspberryPi
 ---
 
-## How much does a Raspberry Pi 4B Computer actually cost
+## How much does a Raspberry Pi 4B Computer actually cost?
 Recently I read quiet a few articles suggesting a **Raspberry Pi computer** is like $35 USD.  I thought really how could that be? 
 So naturally I made a Spreadsheet using Office365 Online directly from my Raspberry Pi 4.  Here is what I found!
 
@@ -78,6 +78,23 @@ So far we decided that a **Raspberry Pi 4B would cost at least 100 Pounds** ster
 6. A speaker or speakers - though the screen will offer a HDMI facilitated sound output. You get what you pay for.
 
 ### How much did my Raspberry Pi 4B cost me
-You should bear in mind that I build computer systems so I have a lot of peripherals thrown around.  The model that I am using today would cost around $700.00 USD if I had to buy off the shelve today.  The inventory and costs for my build are stored [here](https://github.com/CognitiveDave/CognitiveDave.github.io/blob/master/images/pies.Pdf). My interest is to build performant systems ensuring the best possible User Experience and absolute stability for the user. Standard off the shelf computers, you buy in the store, are just a trade off between your basic needs and your appetite for spending.  Apple computers are more expensive but I find they really do last X10 times longer than traditional WIN-TEL computers.  You get what you pay for.
+You should bear in mind that I build computer systems so I have a lot of peripherals thrown around.  The model that I am using today would cost around $700.00 USD if I had to buy off the shelf today.  The inventory and costs for my build are stored [here](https://github.com/CognitiveDave/CognitiveDave.github.io/blob/master/images/pies.Pdf). My interest is to build performant systems ensuring the best possible User Experience and absolute stability for the user. Standard off the shelf computers, you buy in the store, are just a trade off between your basic needs and your appetite for spending.  Apple computers are more expensive but I find they really do last X10 times longer than traditional WIN-TEL computers.  You get what you pay for.
 
 ![Picture of the total bill for a Raspberry Pi 4](/images/pi_bill.png)
+
+The grand total of the parts for my build and current personal computing favorite.
+
+### Conclusion
+We started with the question **'How much does a Raspberry Pi 4B Computer actually cost?'**. So we looked briefly at what is involved in putting together a Computer System.  We looked at Hardware, Software, and Peripherals. How much an individual system will cost comes down to choices and decisions made.  The low range is probably **200 Pounds Sterling** but the high range can go into **Thousands of pounds** depending on the Screen chosen.
+
+I love my system and it performs brilliantly and is rock solid. This article includes links to my parts inventory so you can examine my build in detail.
+
+![David's computer build](/images/DSC_0064%203.JPG)
+
+### You Tube Videos to watch
+
+1. [Booting from USB - and installing that mSata drive](https://www.youtube.com/watch?v=eb_LssJYZ3k&t=8s)
+2. [Installing mSata](https://www.youtube.com/watch?v=uz8-H7pqm2M)
+3. [Putting the system together](https://www.youtube.com/watch?v=bQd8XLJbudQ)
+
+
