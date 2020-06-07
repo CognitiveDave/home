@@ -41,11 +41,31 @@ Typically you need to buy a kit such as the CanaKit shown
 
 [CanaKit Raspberry Pi 4 4GB Starter Kit - 4GB RAM](https://www.amazon.co.uk/CanaKit-Raspberry-4GB-Starter-Kit/dp/B07XH3HWTQ/ref=sr_1_6?dchild=1&keywords=raspberry+pi+4b&qid=1591541258&sr=8-6)
 
-Therefore the Raspberry Pi 4 costs at least 100 Pounds Sterling when we add the shipping costs.
+Therefore the **Raspberry Pi 4 costs at least 100 Pounds Sterling** when we add the shipping costs.
 
 #### Software
+Raspberry Pi 4 runs Linux and there are dozens of distributions to choose from.  You can get a sense of those choices [here](https://raspberrytips.com/best-os-for-raspberry-pi/)
 
+Personally I always use Raspian or now Pi OS and I never had any problems or lack of functionality.
+![A picture of Pi-OS](/images/pi_os.png) 
 
+##### Other software
+Just having Pi-OS installed would be sufficient for most.  After all it comes with Chromium bundled.  However in practice you need a lot of otherstuff. For example here is a screen shot of me actually writing this article.
+
+![A screenshot of the author writing](/images/me_writing.png) 
+
+Notice I am using Chromium and I have a lot of Chromium extensions active.  You might notice:-
+
+1. LastPass - my password manager;
+2. Office365 Online - where I can use Excel, Word, or Powerpoint directly from Chromium;
+3. Google Keep - I can snag documents;
+4. Google documents - I can launch google drive,  google sheets directly in the Browswer;
+5. Autofill - I can fill in forms automatically;
+6. Fireshot - allows me to take screen shots from within the Browser.
+
+Out of the Box Chromium is really useful but it is not able to manage Digital Rites and that blocks Netflix,  Spotify, and other streaming services.  So you need to install a different version of Chromium in order to resolve this problem.  [See the article on Toms Hardware.com](https://www.tomshardware.com/uk/how-to/play-netflix-raspberry-pi) 
+
+Using Chromium with the extensions allows me to open Excel,  Google Sheets,  and even watch Netflix.  Therefore from a Software perspective we are all set.  You can also install recommended Software right from Pi-OS.  Enough said!
 
 #### Peripheral Equipment
 
