@@ -50,7 +50,7 @@ Personally I always use Raspian or now Pi OS and I never had any problems or lac
 ![A picture of Pi-OS](/images/pi_os.png) 
 
 ##### Other software
-Just having Pi-OS installed would be sufficient for most.  After all it comes with Chromium bundled.  However in practice you need a lot of otherstuff. For example here is a screen shot of me actually writing this article.
+Just having Pi-OS installed would be sufficient for most.  After all it comes with Chromium bundled.  However in practice you need a lot of other stuff. For example here is a screen shot of me actually writing this article.
 
 ![A screenshot of the author writing](/images/me_writing.png) 
 
@@ -68,7 +68,16 @@ Out of the Box Chromium is really useful but it is not able to manage Digital Ri
 Using Chromium with the extensions allows me to open Excel,  Google Sheets,  and even watch Netflix.  Therefore from a Software perspective we are all set.  You can also install recommended Software right from Pi-OS.  Enough said!
 
 #### Peripheral Equipment
+So far we decided that a **Raspberry Pi 4B would cost at least 100 Pounds** sterling. But hold on that does not include:- 
 
+1. A screen - Computer screens can go from cheap (avg 100 pounds)  to really expensive ( greater than 1,000 pounds );
+2. A keyboard - Wired keyboards are better for the PI in my opinion;
+3. A mouse - Wired mice are better for the PI in my opinion;
+4. A camera - We live in a world of Zoom,  and other video tools;
+5. A microphone - We need a mic;
+6. A speaker or speakers - though the screen will offer a HDMI facilitated sound output. You get what you pay for.
 
+### How much did my Raspberry Pi 4B cost me
+You should bear in mind that I build computer systems so I have a lot of peripherals thrown around.  The model that I am using today would cost around $700.00 USD if I had to buy off the shelve today.
 
 ![Picture of the total bill for a Raspberry Pi 4](/images/pi_bill.png)
