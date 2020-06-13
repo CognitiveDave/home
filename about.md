@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Favorite Picture](/images/me.jpeg)
 
 A passionate individual with experience in Digital Transformation, UX, Data Science, Tax Technology, Software Engineering, Mentor, Coach, Agile, LeanUX, Design Thinking — views are my.  Employed by IBM.
 
