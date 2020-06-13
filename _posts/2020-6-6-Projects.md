@@ -6,6 +6,6 @@ category: About
 
 Welcome to my Projects page.
 
-![Favorite Picture](/images/DSC_0064%203.JPG)
+![Working with small computer boards](/images/IMG_0724-COLLAGE.jpg)
+A small sample of pictures from my recent work with small computer boards (Raspberry Pi and Ardunio)
 
-My favorite computer!  I actually wrote this post using the Raspberry Pi 4
