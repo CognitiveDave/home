@@ -17,3 +17,27 @@ Having spent time writing on platforms such as Medium and WordPress I have decid
 
 I guess every show has a show title,  has episodes,  and has opening and closing art work.  I found the opening image using Microsoft PowerPoint.  Buying some music tracks allows me to have an opening and closing theme song.
 
+### Episodes
+The plan is to produce a set of videos that explains large projects.  The current project is 'building a sensor network' and I already have the following episodes published with more to come:-
+
+1 [Smart Home - Sensors - Part 1 - DIY](https://www.youtube.com/watch?v=hvVc7LjmUT0)
+
+2 [sensor build part 2 - Slide show building sensors](https://www.youtube.com/watch?v=sw3n4q64bIg)
+
+3 [Building the Sensor network - part 2 - Hardware discussion](https://www.youtube.com/watch?v=kGHaCjhOGKQ)
+
+4 [Building the sensor network part 3 - Software Macro level](https://www.youtube.com/watch?v=0n4FwgpvXSM)
+
+5 Understanding how to set-up a Sensor - defining a Client Side program
+
+6 Understanding how to set-up a Consumer - and push readings to a database
+
+7 Understanding how to perform Analytics
+
+8 Designing and building a User Interface for the project
+
+9 Bringing the whole project together
+
+10 The closing project retrospective
+
+
