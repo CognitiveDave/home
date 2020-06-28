@@ -40,4 +40,5 @@ The plan is to produce a set of videos that explains large projects.  The curren
 
 10 The closing project retrospective
 
-
+### Learning to make videos
+Since I am learning to make videos the episodes should improve in both narrative and content as I go along.  There is no attempt here to polish or reach perfection.  Perfection is unnecessary in a learning curve.  
