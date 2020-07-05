@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![Favorite Picture](/images/me.jpeg)
 
-A passionate individual with experience in Digital Transformation, UX, Data Science, Tax Technology, Software Engineering, Mentor, Coach, Agile, LeanUX, Design Thinking — views are my.  Employed by IBM.
+A passionate individual with experience in Digital Transformation, UX, Data Science, Tax Technology, Software Engineering, Mentor, Coach, Agile, LeanUX, Design Thinking — views are my own.  Employed by IBM.
 
 #### Academic Awards
 With a life time of learning I have collected a large number of academic awards.  MSc(Applied Data Science), PgCert(Project Management), PgCert(Software Engineering), BSc(Hons) Technology, DipSys, DipIT, MIATI, PMI
