@@ -40,6 +40,8 @@ The plan is to produce a set of videos that explains large projects.  The curren
 
 10 The closing project retrospective. Since the build completed July 2020 I am now harvesting data to do further analysis before concluding on the whole exercise.
 
+The whole series is now one [play list](https://www.youtube.com/playlist?list=PL_7kiTrbF7bggIoU3ESx_5CAdZrA7Nr_V)
+
 ### Learning to make videos
 Since I am learning to make videos the episodes should improve in both narrative and content as I go along.  There is no attempt here to polish or reach perfection.  Perfection is unnecessary in a learning curve.  I have little interest in followers, subscribers though if folk wish to do so and wish to contribute that is also fine.  There is no sponsorship and everything in these videos is a personal opinion.  Tools and techniques used are choosen to match the specific project. I highly recommend taking professional approaches to IT Security, Data Privacy, Resiliency,  Accessibility,  and Usability of all products.
 
