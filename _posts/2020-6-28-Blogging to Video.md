@@ -28,17 +28,17 @@ The plan is to produce a set of videos that explains large projects.  The curren
 
 4 [Building the sensor network part 3 - Software Macro level](https://www.youtube.com/watch?v=0n4FwgpvXSM)
 
-5 Understanding how to set-up a Sensor - defining a Client Side program
+5 [Understanding how to set-up a Sensor - defining a Client Side program](https://youtu.be/_OuI89TxLjE)
 
-6 Understanding how to set-up a Consumer - and push readings to a database
+6 [Understanding how to set-up a Consumer - and push readings to a database](https://youtu.be/_OuI89TxLjE)
 
-7 Understanding how to perform Analytics
+7 [Understanding how to perform Analytics](https://youtu.be/ZjvuDGqRLoY)
 
-8 Designing and building a User Interface for the project
+8 [Designing and building a User Interface for the project](https://youtu.be/0btwyE1NO-8)
 
-9 Bringing the whole project together
+9 [Bringing the whole project together](https://youtu.be/xZXdYkbPi7Y)
 
-10 The closing project retrospective
+10 The closing project retrospective. Since the build completed July 2020 I am now harvesting data to do further analysis before concluding on the whole exercise.
 
 ### Learning to make videos
 Since I am learning to make videos the episodes should improve in both narrative and content as I go along.  There is no attempt here to polish or reach perfection.  Perfection is unnecessary in a learning curve.  I have little interest in followers, subscribers though if folk wish to do so and wish to contribute that is also fine.  There is no sponsorship and everything in these videos is a personal opinion.  Tools and techniques used are choosen to match the specific project. I highly recommend taking professional approaches to IT Security, Data Privacy, Resiliency,  Accessibility,  and Usability of all products.
